@@ -1,10 +1,16 @@
 # app.py — minimal & robust Flask server
 import os, csv, json, re
-from flask import Flask, jsonify, make_response
+from flask import Flask, jsonify, make_response, send_from_directory
 
 app = Flask(__name__)
 
-# ----- Resolve CSV path safely (works no matter where you run from)
+# ----- Route to serve the web page -----
+@app.route('/')
+def serve_index():
+    # This serves your index.html file from the 'backend' folder
+    return send_from_directory('backend', 'index.html')
+
+# ----- Resolve CSV path safely (works no matter where you run from) -----
 HERE = os.path.dirname(os.path.abspath(__file__))          # ...\backend
 ROOT = os.path.abspath(os.path.join(HERE, ".."))           # project root
 CANDIDATES = [
@@ -15,7 +21,7 @@ CANDIDATES = [
 ]
 CSV_PATH = next((p for p in CANDIDATES if p and os.path.exists(p)), None)
 
-# ---- Cleaning helpers
+# ---- Cleaning helpers ----
 _ARABIC_INDIC = str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789")
 
 def strip_citations(s: str) -> str:
@@ -39,10 +45,6 @@ def clean_price(raw: str) -> float:
 @app.get("/health")
 def health():
     return {"ok": True, "csv": CSV_PATH or "NOT FOUND"}
-
-@app.get("/")
-def root():
-    return f"Server OK. CSV: {CSV_PATH or 'NOT FOUND'}  • Try /products"
 
 @app.get("/products")
 def products():
