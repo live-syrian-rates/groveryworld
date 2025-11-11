@@ -1,0 +1,114 @@
+2025-10-31 23:55:43,521 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.99:5000
+2025-10-31 23:55:43,521 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:55:43,547 -  * Restarting with stat
+2025-10-31 23:55:45,005 -  * Debugger is active!
+2025-10-31 23:55:45,329 -  * Debugger PIN: 354-961-339
+2025-11-01 02:59:19,782 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.186:5000
+2025-11-01 02:59:19,791 - [33mPress CTRL+C to quit[0m
+2025-11-01 02:59:19,795 -  * Restarting with stat
+2025-11-01 02:59:21,630 -  * Debugger is active!
+2025-11-01 02:59:21,634 -  * Debugger PIN: 139-147-274
+2025-11-01 21:49:46,814 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.60:5000
+2025-11-01 21:49:46,822 - [33mPress CTRL+C to quit[0m
+2025-11-01 21:49:46,838 -  * Restarting with stat
+2025-11-01 21:49:48,315 -  * Debugger is active!
+2025-11-01 21:49:48,329 -  * Debugger PIN: 139-147-274
+2025-11-08 16:05:03,460 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.33:5000
+2025-11-08 16:05:03,461 - [33mPress CTRL+C to quit[0m
+2025-11-08 16:05:03,476 -  * Restarting with stat
+2025-11-08 16:05:05,070 -  * Debugger is active!
+2025-11-08 16:05:05,109 -  * Debugger PIN: 139-147-274
+2025-11-08 16:06:08,442 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.33:5000
+2025-11-08 16:06:08,442 - [33mPress CTRL+C to quit[0m
+2025-11-08 16:06:08,445 -  * Restarting with stat
+2025-11-08 16:06:09,679 -  * Debugger is active!
+2025-11-08 16:06:09,687 -  * Debugger PIN: 139-147-274
+2025-11-08 16:14:57,949 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.33:5000
+2025-11-08 16:14:57,949 - [33mPress CTRL+C to quit[0m
+2025-11-08 16:14:57,952 -  * Restarting with stat
+2025-11-08 16:14:59,446 -  * Debugger is active!
+2025-11-08 16:14:59,456 -  * Debugger PIN: 139-147-274
+2025-11-08 16:23:50,237 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.33:5000
+2025-11-08 16:23:50,237 - [33mPress CTRL+C to quit[0m
+2025-11-08 16:23:50,240 -  * Restarting with stat
+2025-11-08 16:23:51,857 -  * Debugger is active!
+2025-11-08 16:23:51,871 -  * Debugger PIN: 139-147-274
+2025-11-08 17:07:07,474 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.33:5000
+2025-11-08 17:07:07,474 - [33mPress CTRL+C to quit[0m
+2025-11-08 17:07:07,476 -  * Restarting with stat
+2025-11-08 17:07:08,599 -  * Debugger is active!
+2025-11-08 17:07:08,609 -  * Debugger PIN: 139-147-274
+2025-11-08 17:16:07,006 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.33:5000
+2025-11-08 17:16:07,007 - [33mPress CTRL+C to quit[0m
+2025-11-08 17:16:07,010 -  * Restarting with stat
+2025-11-08 17:16:09,900 -  * Debugger is active!
+2025-11-08 17:16:09,910 -  * Debugger PIN: 139-147-274
+2025-11-08 18:52:47,339 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.89.144.91:5000
+2025-11-08 18:52:47,375 - [33mPress CTRL+C to quit[0m
+2025-11-08 18:52:47,378 -  * Restarting with stat
+2025-11-08 18:52:48,622 -  * Debugger is active!
+2025-11-08 18:52:48,641 -  * Debugger PIN: 139-147-274
+2025-11-08 18:53:16,541 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.89.144.91:5000
+2025-11-08 18:53:16,541 - [33mPress CTRL+C to quit[0m
+2025-11-08 18:53:16,543 -  * Restarting with stat
+2025-11-08 18:55:06,147 -  * Detected change in 'C:\\UniGroceriesCLI\\backend\\app.py', reloading
+2025-11-08 18:55:06,517 -  * Restarting with stat
+2025-11-08 18:55:08,081 -  * Debugger is active!
+2025-11-08 18:55:08,089 -  * Debugger PIN: 139-147-274
+2025-11-08 18:55:37,758 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.89.144.91:5000
+2025-11-08 18:55:37,759 - [33mPress CTRL+C to quit[0m
+2025-11-08 18:55:37,761 -  * Restarting with stat
+2025-11-08 18:55:38,885 -  * Debugger is active!
+2025-11-08 18:55:38,893 -  * Debugger PIN: 139-147-274
+2025-11-08 19:19:11,711 - 127.0.0.1 - - [08/Nov/2025 19:19:11] "GET /products HTTP/1.1" 200 -
+2025-11-08 19:19:13,377 - 127.0.0.1 - - [08/Nov/2025 19:19:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-08 19:45:18,457 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.89.144.91:5000
+2025-11-08 19:45:18,457 - [33mPress CTRL+C to quit[0m
+2025-11-08 19:45:18,459 -  * Restarting with stat
+2025-11-08 19:45:19,613 -  * Debugger is active!
+2025-11-08 19:45:19,621 -  * Debugger PIN: 139-147-274
+2025-11-08 19:54:50,158 - 127.0.0.1 - - [08/Nov/2025 19:54:50] "GET /products HTTP/1.1" 200 -
+2025-11-08 19:56:36,960 - 127.0.0.1 - - [08/Nov/2025 19:56:36] "GET /products HTTP/1.1" 200 -
+2025-11-08 19:57:28,403 - 127.0.0.1 - - [08/Nov/2025 19:57:28] "GET /products HTTP/1.1" 200 -
+2025-11-08 20:44:56,263 - 192.168.143.91 - - [08/Nov/2025 20:44:56] "GET /products HTTP/1.1" 200 -
+2025-11-08 20:44:57,035 - 192.168.143.91 - - [08/Nov/2025 20:44:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-08 20:57:40,490 -  * Detected change in 'C:\\UniGroceriesCLI\\backend\\app.py', reloading
